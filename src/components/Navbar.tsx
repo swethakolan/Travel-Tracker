@@ -16,7 +16,7 @@ export default function Navbar() {
       {/* Logo Section */}
       <div className="flex items-center space-x-2">
         <img
-          src="/Tour.png"
+          src="/TOUR.png"
           alt="travel-logo"
           className="w-10 h-10 object-contain"
         />

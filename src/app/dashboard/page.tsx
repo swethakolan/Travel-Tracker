@@ -5,7 +5,7 @@ export default function Dashboard(){
   return(
     <>
     <Topbar/>
-    <section id="home" className="flex justify-center text-2xl text-pink-500 my-50">
+    <section id="dashboard" className="flex justify-center text-2xl text-pink-500 my-50">
         <h1>welcome Dashboard</h1>
       </section>
     </>
